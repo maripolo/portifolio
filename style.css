@@ -8,7 +8,7 @@ body {
     --escuro: #0C1618;
     --verde-escuro: #004643;
     --amarelo: #D1AC00;
-    --fundo:#FAF4D3;
+    --fundo:white;
     --fonte-padrao: 'Poppins', sans-serif;
     --fonte-titulos: "EB Garamond", serif;
     --fonte-textos:"Nanum Gothic Coding", monospace;
@@ -71,3 +71,4 @@ p{
     text-align: center;
     font-size: 1.1em;    
 }
+
